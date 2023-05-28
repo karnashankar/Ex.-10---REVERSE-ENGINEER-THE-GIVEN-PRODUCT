@@ -32,11 +32,17 @@
 
 ## Input:
 
+![image](https://github.com/aadithyan22000618/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113586376/56b45864-edb1-4ba2-90af-0c5e344f6796)
+
+
 ### Output:
+![image](https://github.com/aadithyan22000618/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113586376/1fcd1293-b1f8-4c54-81ac-9726f86fe6a6)
+![image](https://github.com/aadithyan22000618/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113586376/6832f7db-592f-495b-ae3f-6f769f178677)
 
 
-### Name:
-### Register Number:
+
+### Name:Aadithyan R
+### Register Number:212222230001
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
